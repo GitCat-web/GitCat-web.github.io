@@ -8,15 +8,11 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
-
-## About My Advisor
-
-Advisor info goes here.
+A student in high school doing a final project for a computer programming class.
 
 ## About My Project
 
-Project description goes here.
+Building a roulette game with a GUI
 
 [My Final Report](files/finalreport.pdf)
 
