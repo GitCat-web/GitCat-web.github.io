@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-A student in high school doing a final project for a computer programming class.
+High School student learning python in a computer programming class.
 
 ## About My Project
 
