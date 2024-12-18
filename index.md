@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-High School student learning python in a computer programming class.
+I am a high school student learning Python in a computer programming class. I enjoy playing games like Hollow Knight or Sudoku and have only ever created one game prior to this one. Said game was a rhythm game created in unity for a class I took last year. Finally, my other hobbies include reading manga and listening to music.
 
 ## About My Project
 
